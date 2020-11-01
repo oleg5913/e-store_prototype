@@ -8,4 +8,4 @@
 - React-Redux
 - Redux-Form
 
-Ссылка: https://oleg5913.github.io/e-store_prototype/
+Ссылка: https://oleg5913.github.io/e-store_prototype/ 
