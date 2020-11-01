@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/e-store_prototype/static/css/main.a45b1a9a.chunk.css",
+    "main.js": "/e-store_prototype/static/js/main.e42e4a7d.chunk.js",
+    "main.js.map": "/e-store_prototype/static/js/main.e42e4a7d.chunk.js.map",
+    "runtime-main.js": "/e-store_prototype/static/js/runtime-main.2275eccc.js",
+    "runtime-main.js.map": "/e-store_prototype/static/js/runtime-main.2275eccc.js.map",
+    "static/js/2.39ac385e.chunk.js": "/e-store_prototype/static/js/2.39ac385e.chunk.js",
+    "static/js/2.39ac385e.chunk.js.map": "/e-store_prototype/static/js/2.39ac385e.chunk.js.map",
+    "index.html": "/e-store_prototype/index.html",
+    "precache-manifest.404b7c946826e4fa8427388cbfab378c.js": "/e-store_prototype/precache-manifest.404b7c946826e4fa8427388cbfab378c.js",
+    "service-worker.js": "/e-store_prototype/service-worker.js",
+    "static/css/main.a45b1a9a.chunk.css.map": "/e-store_prototype/static/css/main.a45b1a9a.chunk.css.map",
+    "static/js/2.39ac385e.chunk.js.LICENSE.txt": "/e-store_prototype/static/js/2.39ac385e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/e-store_prototype/static/media/Comfortaa-Light.16efd342.ttf",
+    "static/media/History.css": "/e-store_prototype/static/media/history.a0e4dc9d.png",
+    "static/media/ManCategory.css": "/e-store_prototype/static/media/manCatalog.5de4f3fc.png",
+    "static/media/WomanCategory.css": "/e-store_prototype/static/media/womanCatalog.33306ddd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2275eccc.js",
+    "static/js/2.39ac385e.chunk.js",
+    "static/css/main.a45b1a9a.chunk.css",
+    "static/js/main.e42e4a7d.chunk.js"
+  ]
+}
