@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/e-store_prototype/static/css/main.a45b1a9a.chunk.css",
-    "main.js": "/e-store_prototype/static/js/main.e42e4a7d.chunk.js",
-    "main.js.map": "/e-store_prototype/static/js/main.e42e4a7d.chunk.js.map",
+    "main.css": "/e-store_prototype/static/css/main.1c5539dc.chunk.css",
+    "main.js": "/e-store_prototype/static/js/main.f772ed9a.chunk.js",
+    "main.js.map": "/e-store_prototype/static/js/main.f772ed9a.chunk.js.map",
     "runtime-main.js": "/e-store_prototype/static/js/runtime-main.2275eccc.js",
     "runtime-main.js.map": "/e-store_prototype/static/js/runtime-main.2275eccc.js.map",
-    "static/js/2.39ac385e.chunk.js": "/e-store_prototype/static/js/2.39ac385e.chunk.js",
-    "static/js/2.39ac385e.chunk.js.map": "/e-store_prototype/static/js/2.39ac385e.chunk.js.map",
+    "static/js/2.2d350356.chunk.js": "/e-store_prototype/static/js/2.2d350356.chunk.js",
+    "static/js/2.2d350356.chunk.js.map": "/e-store_prototype/static/js/2.2d350356.chunk.js.map",
     "index.html": "/e-store_prototype/index.html",
-    "precache-manifest.404b7c946826e4fa8427388cbfab378c.js": "/e-store_prototype/precache-manifest.404b7c946826e4fa8427388cbfab378c.js",
+    "precache-manifest.779ddf2351cc4163bbf6c0d2c4d0f7bc.js": "/e-store_prototype/precache-manifest.779ddf2351cc4163bbf6c0d2c4d0f7bc.js",
     "service-worker.js": "/e-store_prototype/service-worker.js",
-    "static/css/main.a45b1a9a.chunk.css.map": "/e-store_prototype/static/css/main.a45b1a9a.chunk.css.map",
-    "static/js/2.39ac385e.chunk.js.LICENSE.txt": "/e-store_prototype/static/js/2.39ac385e.chunk.js.LICENSE.txt",
+    "static/css/main.1c5539dc.chunk.css.map": "/e-store_prototype/static/css/main.1c5539dc.chunk.css.map",
+    "static/js/2.2d350356.chunk.js.LICENSE.txt": "/e-store_prototype/static/js/2.2d350356.chunk.js.LICENSE.txt",
     "static/media/App.css": "/e-store_prototype/static/media/Comfortaa-Light.16efd342.ttf",
     "static/media/History.css": "/e-store_prototype/static/media/history.a0e4dc9d.png",
     "static/media/ManCategory.css": "/e-store_prototype/static/media/manCatalog.5de4f3fc.png",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2275eccc.js",
-    "static/js/2.39ac385e.chunk.js",
-    "static/css/main.a45b1a9a.chunk.css",
-    "static/js/main.e42e4a7d.chunk.js"
+    "static/js/2.2d350356.chunk.js",
+    "static/css/main.1c5539dc.chunk.css",
+    "static/js/main.f772ed9a.chunk.js"
   ]
 }
