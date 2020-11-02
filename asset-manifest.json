@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/e-store_prototype/static/css/main.27fcff85.chunk.css",
+    "main.css": "/e-store_prototype/static/css/main.13f722be.chunk.css",
     "main.js": "/e-store_prototype/static/js/main.61061cd1.chunk.js",
     "main.js.map": "/e-store_prototype/static/js/main.61061cd1.chunk.js.map",
     "runtime-main.js": "/e-store_prototype/static/js/runtime-main.2275eccc.js",
@@ -8,9 +8,9 @@
     "static/js/2.e2fb75ad.chunk.js": "/e-store_prototype/static/js/2.e2fb75ad.chunk.js",
     "static/js/2.e2fb75ad.chunk.js.map": "/e-store_prototype/static/js/2.e2fb75ad.chunk.js.map",
     "index.html": "/e-store_prototype/index.html",
-    "precache-manifest.206426cd28cd998ca9615abbddb5db30.js": "/e-store_prototype/precache-manifest.206426cd28cd998ca9615abbddb5db30.js",
+    "precache-manifest.b72594af1d199675b74b1e4a1b052b01.js": "/e-store_prototype/precache-manifest.b72594af1d199675b74b1e4a1b052b01.js",
     "service-worker.js": "/e-store_prototype/service-worker.js",
-    "static/css/main.27fcff85.chunk.css.map": "/e-store_prototype/static/css/main.27fcff85.chunk.css.map",
+    "static/css/main.13f722be.chunk.css.map": "/e-store_prototype/static/css/main.13f722be.chunk.css.map",
     "static/js/2.e2fb75ad.chunk.js.LICENSE.txt": "/e-store_prototype/static/js/2.e2fb75ad.chunk.js.LICENSE.txt",
     "static/media/App.css": "/e-store_prototype/static/media/Comfortaa-Light.16efd342.ttf",
     "static/media/History.css": "/e-store_prototype/static/media/history.a0e4dc9d.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.2275eccc.js",
     "static/js/2.e2fb75ad.chunk.js",
-    "static/css/main.27fcff85.chunk.css",
+    "static/css/main.13f722be.chunk.css",
     "static/js/main.61061cd1.chunk.js"
   ]
 }
